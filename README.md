@@ -1,13 +1,12 @@
 # 🎲 Guess My Number
-![image](https://github.com/user-attachments/assets/f88584a1-bc64-49de-97dc-01ffc51e26c6)
-
 Bem-vindo ao **Guess My Number**, um jogo interativo desenvolvido em JavaScript como parte do curso [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/). O objetivo do jogo é simples: adivinhar o número secreto gerado pelo sistema. Será que você consegue? 🕵️‍♂️
 
 ---
 
 ## 📸 **Preview**
 
-![Guess My Number Preview](https://via.placeholder.com/1200x600?text=Preview+Image)
+
+![image](https://github.com/user-attachments/assets/f88584a1-bc64-49de-97dc-01ffc51e26c6)
 
 👉 [**Acessar o Jogo Aqui**](https://andredeomondes.github.io/guess-my-number/guess-my-number)
 
