@@ -8,7 +8,7 @@ Bem-vindo ao **Guess My Number**, um jogo interativo desenvolvido em JavaScript 
 
 ![image](https://github.com/user-attachments/assets/f88584a1-bc64-49de-97dc-01ffc51e26c6)
 
-👉 [**Acessar o Jogo Aqui**](https://andredeomondes.github.io/guess-my-number/guess-my-number)
+👉 [**Acessar o Jogo Aqui**]([https://andredeomondes.github.io/guess-my-number/guess-my-number](https://andredeomondes.github.io/guess-my-number/))
 
 ---
 
